@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vyperprotocol.io">
-    <img alt="Vyper Protocol" src="https://github.com/vyper-protocol/branding/blob/main/medium-logo.png" width="250" />
+    <img alt="Vyper Protocol" src="https://github.com/vyper-protocol/branding/blob/main/medium-logo.png" width="100" />
   </a>
 </p>
 
